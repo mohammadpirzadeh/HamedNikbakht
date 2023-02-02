@@ -10,21 +10,22 @@
   <img align="right" top="500" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://HamedNikbakht.ir" target="blank">My own Website</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Django
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning RactJs & Django <a href="https://github.com/HamedNikbakht" target="blank">HamedNikbakht</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on [https://HamedNikbakht.ir](https://HamedNikbakht.ir)
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **HamedNikbakht@hotmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://HamedNikbakht.ir" target="blank">Resume</a>
 <br/>
 
 
+HamedNikbakht.ir

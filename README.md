@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://HamedNikbakht.ir](https://HamedNikbakht.ir)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs & Django**
 
 - 📫 How to reach me **HamedNikbakht@hotmail.com**
 

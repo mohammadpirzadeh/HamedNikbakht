@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png">
 </p>
 
 

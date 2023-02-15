@@ -13,7 +13,7 @@
 </a>
 
 
-- 🔭 I’m currently working in <a href="https://HamedNikbakht.github.io" target="blank">My own Website</a>
+- 🔭 I’m currently working in <a href="https://HamedNikbakht.github.io" target="blank">Blog</a>
 
 - 🌱 I’m currently Working on Django
 

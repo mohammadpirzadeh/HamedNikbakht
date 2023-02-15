@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning RactJs & Django <a href="https://github.com/HamedNikbakht" target="blank">HamedNikbakht</a>
 
-- 📝 I regularly write articles on [https://HamedNikbakht.ir](https://HamedNikbakht.ir)
+- 📝 I regularly write articles on [https://HamedNikbakht.ir](https://HamedNikbakht.github.io)
 
 - 💬 Ask me about **Reactjs & Django**
 

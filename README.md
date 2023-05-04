@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently Working on Django
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing.➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 - 🌱 I’m currently learning RactJs & Django <a href="https://github.com/HamedNikbakht" target="blank">HamedNikbakht</a>
 
@@ -35,8 +35,6 @@
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>  
-
-
 
 
 
